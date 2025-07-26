@@ -11,9 +11,9 @@ The present code starts from the raw **PVS** micro‑data, cleans and enriches t
 
 #### Data
 
-The analysis draws from the first wave of the People's Voice Survey (Italian sample). Original dataset can be downloaded [here]([https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/3ARMQF])
+The analysis draws from the first wave of the People's Voice Survey (Italian sample). The original dataset can be downloaded for free [here]([url](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/3ARMQF))
 
-Additional information about the dataset can be read [here] (https://www.questnetwork.org/our-work/peoples-voice-survey)
+Additional information about the dataset can be read [here]([url](https://www.questnetwork.org/our-work/peoples-voice-survey))
 
 #### Methods for analysis
 
