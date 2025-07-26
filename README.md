@@ -91,7 +91,7 @@ pandas scikit-learn matplotlib numpy
 2. **Open Stata**, set your working dir to the repo root or simply run
 
    ```stata
-   cd "~/path/to/italy-pvs"
+   cd "~path to current folder"
    do master.do
    ```
 3. Grab a coffee — the whole run takes ≈ 3 min on a modern laptop (Python imputation \~30 s).
@@ -101,10 +101,9 @@ Logs (`.smcl`) for every script are also saved there for transparency.
 
 ---
 
-## License & citation
+## Citation
 
-The code is released under the MIT License.
-If you use or adapt it, please cite:
+If you use or adapt this code, please cite:
 
 ```
 Ardito, E. (2025). “Socioeconomic Inequalities in Perceived Healthcare Quality in Italy”. Unpublished MSc Thesis.
