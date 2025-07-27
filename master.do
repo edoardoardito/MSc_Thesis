@@ -18,8 +18,7 @@
 *** Set working directories
 *******************************
 
-*cd ".../Thesis Codes" //Replace cd as the folder in which this dofile is saved
-cd "/Users/edoardoardito/Desktop/for github"
+*cd ".../MSc_Thesis" //Replace cd as the folder in which this dofile is saved
 
 	* Define global macros
 	
